@@ -15,6 +15,7 @@
   "imports": {
     "@deno/vite-plugin": "npm:@deno/vite-plugin@^1.0.5",
     "@vitejs/plugin-vue": "npm:@vitejs/plugin-vue@^6.0.3",
+    "effect": "npm:effect@^3.19.18",
     "vite": "npm:vite@^7.3.1",
     "vue": "npm:vue@^3.5.27"
   },
